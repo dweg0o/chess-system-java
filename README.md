@@ -10,10 +10,10 @@ This is a Java project for a chess game, implemented using object-oriented progr
 # Usage
 To play the chess game, follow these steps:
 
-1- Compile the Java source files.
-2- Run the compiled Java program.
-3- The game will prompt the players to enter their moves in the format "[source position] [destination position]" (e.g., "e2 e4").
-4- Continue taking turns and following the prompts until the game ends.
+1. Compile the Java source files.
+2. Run the compiled Java program.
+3. The game will prompt the players to enter their moves in the format "[source position] [destination position]" (e.g., "e2 e4").
+4. Continue taking turns and following the prompts until the game ends.
 
 Implement castling and en passant moves.
 - Add graphical user interface (GUI) for a more visually appealing gameplay experience.
